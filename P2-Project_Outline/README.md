@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This application is designed to help people prone to anxiety.  To help themselves, they create an account in which they indicate actions on the part of another person that help him cope with the situation that has arisen.  A person who trying to help, under his own account in the application,  can find out how he can help in different cases.
 ### Features
-Include Features here
+1. user log in - profiles/ authentication
+2. linking profiles and adding members to your specific buddy group
+3. user led input for "trigger" and deescalation techniques
+4. occurance log for events/data tracking
 ### Technologies
-Include Technologies here
+1. Javascript
+2. Angular 
+3. Java 
+4. Springboot
+5. mySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+1. build an API between Java/JavaScript 
+2. User Verification
 ### Project Tracker
 Link to your Trello board here
