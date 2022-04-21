@@ -8,9 +8,11 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+https://github.com/esalavatovna
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+linkedin.com/in/eleonora-bogdanova-087a33209
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
